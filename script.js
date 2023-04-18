@@ -5,4 +5,4 @@ function volume_sphere() {
 	v.value = r.value*r.value*Math.PI;
 } 
 
-window.onload = document.getElementById('MyForm').onsubmit = volume_sphere;
+//window.onload = document.getElementById('MyForm').onsubmit = volume_sphere;
